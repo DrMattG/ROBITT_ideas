@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="10.15468/dl.tsyjt4"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+        <alternateIdentifier>0001314-210914110416597</alternateIdentifier>
+    <title>GBIF Occurrence Download 10.15468/dl.tsyjt4</title>
+    <creator>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2021-09-15
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>A dataset containing all occurrences available in GBIF matching the query:
+{
+  &quot;and&quot; : [
+    {
+      &quot;or&quot; : [
+        &quot;BasisOfRecord is Human Observation&quot;,
+        &quot;BasisOfRecord is Machine Observation&quot;
+      ]
+    },
+    &quot;Country is Norway&quot;,
+    &quot;HasCoordinate is true&quot;,
+    &quot;HasGeospatialIssue is false&quot;,
+    &quot;TaxonKey is Lyrurus tetrix (Linnaeus, 1758)&quot;,
+    &quot;Year 1899-2021&quot;
+  ]
+}
+The dataset includes records from the following constituent datasets. The full metadata for each constituent is also included in this archive:
+1 records from Bird observations at Vikevatnet Norway
+2 records from Jordal
+7 records from Tetraonid line transect surveys from Norway: Data from Finnmarkseiendommen (FeFo)
+9 records from iNaturalist Research-grade Observations
+12 records from naturgucker
+33 records from Xeno-canto - Bird sounds from around the world
+41 records from Birds ringed with Norwegian rings 1914-1960
+49 records from BioFokus
+130 records from GalliForm: Galliformes occurrence records from the Indo-Malay and Palaearctic, 1800-2008
+136 records from Birds ringed with Norwegian rings 1961-1990
+147 records from Observation.org, Nature data from around the World
+383 records from EOD – eBird Observation Dataset
+945 records from TOV-E Bird monitoring sampling data
+1165 records from Tetraonid line transect surveys from Norway: Data from Fjellstyrene
+1710 records from Tetraonid line transect surveys from Norway: Data from Statskog
+4193 records from Norwegian Biodiversity Information Centre - Other datasets
+30162 records from Norwegian Species Observation Service
+</para>
+    </abstract>
+      <contact>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2021-09-15T12:48:06Z</dateStamp>
+      <citation identifier="10.15468/dl.tsyjt4">GBIF Occurrence Download 10.15468/dl.tsyjt4</citation>
+              <physical>
+                  <objectName>Darwin Core Archive</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>Darwin Core Archive</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">https://api.gbif.org/v1/occurrence/download/request/0001314-210914110416597.zip</url>
+                      </online>
+                  </distribution>
+              </physical>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

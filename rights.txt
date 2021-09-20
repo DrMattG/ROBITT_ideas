@@ -1,0 +1,35 @@
+
+Dataset: Bird observations at Vikevatnet Norway
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Jordal
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Tetraonid line transect surveys from Norway: Data from Finnmarkseiendommen (FeFo)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: iNaturalist Research-grade Observations
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: naturgucker
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Xeno-canto - Bird sounds from around the world
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Birds ringed with Norwegian rings 1914-1960
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: BioFokus
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: GalliForm: Galliformes occurrence records from the Indo-Malay and Palaearctic, 1800-2008
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Birds ringed with Norwegian rings 1961-1990
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Observation.org, Nature data from around the World
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: EOD – eBird Observation Dataset
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: TOV-E Bird monitoring sampling data
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Tetraonid line transect surveys from Norway: Data from Fjellstyrene
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Tetraonid line transect surveys from Norway: Data from Statskog
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Norwegian Biodiversity Information Centre - Other datasets
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Norwegian Species Observation Service
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
